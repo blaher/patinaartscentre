@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meet Our Resident Artists on Patina Arts Centre</title>
-    <link>http://localhost:1313/artists/</link>
+    <link>http://localhost:1313/patinaartscentre/artists/</link>
     <description>Recent content in Meet Our Resident Artists on Patina Arts Centre</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/patinaartscentre/artists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alaska Thompson</title>
-      <link>http://localhost:1313/artists/alaska-thompson/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/alaska-thompson/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/alaska-thompson/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/alaska-thompson/</guid>
       <description>&lt;p&gt;Alaska Thompson is an artist based in Canton, Ohio. Her artwork often depicts renditions of both existing, and non- existent, cosmic structures and galactic imagery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ben Young</title>
-      <link>http://localhost:1313/artists/ben-young/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/ben-young/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/ben-young/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/ben-young/</guid>
       <description>&lt;p&gt;Professional finger painter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>David Brian Martin</title>
-      <link>http://localhost:1313/artists/david-martin/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/david-martin/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/david-martin/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/david-martin/</guid>
       <description>&lt;p&gt;David Martin is an artist in Canton, Ohio working to use art as therapy. He has a Bachelors of Fine Art in Fine Art Photography, with minors in Professional Photography and Painting. He worked as a naval photographer in 2010 and since his medical discharge has worked to improve his art skills and introduce the idea of art as therapy to other artists and veterans. David has also taken lessons and learned a lot from local artists Amy Lindenberger, Cathie Fithian, Frank Dale, and Erin Mulligan. He has a gallery space to exhibit his work at Patina Arts Centre, and works at his studio in Kolp’s Attic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>David Dingwell</title>
-      <link>http://localhost:1313/artists/david-dingwell/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/david-dingwell/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/david-dingwell/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/david-dingwell/</guid>
       <description>&lt;p&gt;David Dingwell is a photographer based in Massillon. His work is focused on cityscape and architecture, as well as emotive portraiture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Tim Hirst</title>
-      <link>http://localhost:1313/artists/tim-hirst/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/tim-hirst/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/tim-hirst/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/tim-hirst/</guid>
       <description></description>
     </item>
     <item>
       <title>Shari Weygandt</title>
-      <link>http://localhost:1313/artists/shari-weygandt/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/shari-weygandt/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/shari-weygandt/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/shari-weygandt/</guid>
       <description></description>
     </item>
     <item>
       <title>Steve Ehret</title>
-      <link>http://localhost:1313/artists/steve-ehret/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/steve-ehret/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/steve-ehret/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/steve-ehret/</guid>
       <description>&lt;p&gt;Self-taught painter Steve Ehret is inspired by the natural world, taking in his surroundings on year-round trail runs. His goal is not realism, but rather a sense of gravity, whether working in oils, with mixed media, or on a mural.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim Eakin</title>
-      <link>http://localhost:1313/artists/tim-eakin/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/tim-eakin/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/tim-eakin/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/tim-eakin/</guid>
       <description>&lt;p&gt;Tim is a tattoo artist at The Inkeeper’s tattoo parlor in Canton, Ohio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tom Delamater</title>
-      <link>http://localhost:1313/artists/tom-delamater/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/tom-delamater/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/tom-delamater/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/tom-delamater/</guid>
       <description>&lt;p&gt;Tom Delamater is an abstract artist based in Canton, Ohio&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zach Finn</title>
-      <link>http://localhost:1313/artists/zach-finn/</link>
+      <link>http://localhost:1313/patinaartscentre/artists/zach-finn/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/artists/zach-finn/</guid>
+      <guid>http://localhost:1313/patinaartscentre/artists/zach-finn/</guid>
       <description>&lt;p&gt;Zach is a graphic designer with a maddening amount of drawings of characters lovingly referred to as IF’s, or Imaginary Folk.&lt;/p&gt;</description>
     </item>
   </channel>
