@@ -3,6 +3,8 @@
 <link rel="stylesheet" href="/css/main.css" />
 <noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
 
+<base href="https://blaher.me/patinaartscentre/" target="_blank">
+
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
