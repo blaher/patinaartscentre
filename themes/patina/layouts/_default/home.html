@@ -1,0 +1,95 @@
+{{ define "main" }}
+  <!-- Banner -->
+  <section id="banner">
+    <div class="inner">
+      <h2>{{ .Site.Title }}</h2>
+      <p>
+        {{ range .Params.banners }}
+          {{ . }}<br>
+        {{ end }}
+      </p>
+      <ul class="actions special">
+        <li><a href="/about" class="button primary">About Patina</a></li>
+      </ul>
+    </div>
+    <a href="#one" class="more scrolly">Learn More</a>
+  </section>
+
+  <!-- One -->
+  <section id="one" class="wrapper style1 special">
+    <div class="inner">
+      <header class="major">
+        <h2>{{ .Title }}</h2>
+        {{ .Content }}
+        <ul class="features">
+          <li class="icon fa-building">
+            <h3>{{ .Params.visittitle }}</h2>
+            <p>
+              {{ .Params.visit }}
+              <address>
+                <a href="https://maps.google.com/maps/place//data=!4m2!3m1!1s0x8836d1fefe2180c3:0xfdf9708fa1e1a0c0?entry=s&sa=X&ved=2ahUKEwiL-ur6sYGDAxUbg4kEHWI0CCEQ4kB6BAgJEAA&hl=en-US">
+                  324 Cleveland Avenue NW<br>
+                  Canton, Ohio 44702
+                </a>
+              </address>
+            </p>
+          </li>
+
+          <li class="icon fa-clock">
+            <h3>{{ .Params.hourstitle }}</h3>
+            <p>
+              {{ range .Params.hours }}
+                {{ . }}<br>
+              {{ end }}
+            </p>
+          </li>
+        </ul>
+
+        <p>
+          {{ .Params.secondary }}
+        </p>
+
+      </header>
+    </div>
+  </section>
+
+  <!-- Two -->
+  <section id="two" class="wrapper alt style2">
+    <section class="spotlight">
+      <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+        <h2>{{ .Params.exhibittitle }}</h2>
+        <p>A Spirit of Community</p>
+        <a href="#" class="button primary">View Event</a>
+      </div>
+    </section>
+    <section class="spotlight">
+      <div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+        <h2>{{ .Params.offertitle }}</h2>
+        <p>
+          {{ .Params.offer }}
+        </p>
+        <a href="#" class="button primary">Learn More</a>
+      </div>
+    </section>
+    <section class="spotlight">
+      <div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+        <h2>{{ .Params.residentstitle }}</h2>
+        <p>
+          {{ .Params.residents }}
+        </p>
+        <a href="#" class="button primary">Meet Artists</a>
+      </div>
+    </section>
+  </section>
+
+  <!-- CTA -->
+  <section id="cta" class="wrapper style4">
+    <div class="inner">
+      <header>
+        <h2>{{ .Params.missiontitle }}</h2>
+        <p>{{ .Params.mission }}</p>
+      </header>
+    </div>
+  </section>
+
+{{ end }}

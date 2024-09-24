@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="landing is-preload">
+  <div id="page-wrapper">
+    <header id="header" class="alt">
+      {{ partial "header.html" . }}
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer id="footer">
+      {{ partial "footer.html" . }}
+    </footer>
+
+    {{ partial "scripts.html" . }}
+  </div>
+</body>
+</html>
