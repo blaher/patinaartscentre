@@ -7,7 +7,8 @@
       <h2>{{ .Site.Title }}</h2>
       <p>
         {{ range .Params.banners }}
-          {{ . }}<br>
+          {{ . }}
+          <br>
         {{ end }}
       </p>
       <ul class="actions special">
@@ -30,7 +31,8 @@
               {{ .Params.visit }}
               <address>
                 <a href="https://maps.google.com/maps/place//data=!4m2!3m1!1s0x8836d1fefe2180c3:0xfdf9708fa1e1a0c0?entry=s&sa=X&ved=2ahUKEwiL-ur6sYGDAxUbg4kEHWI0CCEQ4kB6BAgJEAA&hl=en-US">
-                  324 Cleveland Avenue NW<br>
+                  324 Cleveland Avenue NW
+                  <br>
                   Canton, Ohio 44702
                 </a>
               </address>
@@ -41,7 +43,8 @@
             <h3>{{ .Params.hourstitle }}</h3>
             <p>
               {{ range .Params.hours }}
-                {{ . }}<br>
+                {{ . }}
+                <br>
               {{ end }}
             </p>
           </li>
