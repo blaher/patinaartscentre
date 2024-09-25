@@ -1,7 +1,6 @@
 ---
 title: About Patina
 heading: About Patina
-description: something
 ---
 
 Patina Arts Centre is a non profit organization working to generate creative revitalization and community empowerment through the arts.

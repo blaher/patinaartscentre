@@ -1,7 +1,7 @@
 ---
 title: Upcoming Special Events
 heading: Upcoming Special Events
-description: Comedy
+description: Comedy Shows
 ---
 
 View our upcoming special events at PAC.
