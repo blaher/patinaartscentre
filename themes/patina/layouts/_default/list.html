@@ -10,8 +10,28 @@
         {{ .Content }}
 
         {{ range .Pages }}
-          <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-          {{ .Summary }}
+          <div class="box clear">
+              <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+              <p>
+                {{ $image := .Resources.GetMatch "image.jpg" }}
+                {{ with $image }}
+                  {{ $image := $image.Fit "300x200" }}
+                  <span class="image left">
+                    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+                  </span>
+                {{ end }}
+
+                {{ .Summary }}
+              </p>
+
+              {{ if .Params.website }}
+                <p>
+                  <a class="button" href="{{ .Params.website }}">
+                    Visit Website
+                  </a>
+                </p>
+              {{ end }}
+          </div>
         {{ end }}
       </div>
     </section>
