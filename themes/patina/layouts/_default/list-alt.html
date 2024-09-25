@@ -1,0 +1,43 @@
+{{ define "main" }}
+  <article id="main">
+    <header>
+      <img src="/logo.png" alt="{{ .Site.Title }} Logo" width="250px">
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+    </header>
+
+    <section class="wrapper style5">
+      <div class="inner">
+        {{ .Content }}
+
+        <div class="box alt">
+          <div class="row gtr-50 gtr-uniform">
+            {{ range .Pages }}
+              <div class="col-3-xlarge col-4-large col-6-medium col-12-small">
+                {{ $image := .Resources.GetMatch "image.jpg" }}
+                {{ with $image }}
+                  {{ $image := $image.Fit "300x300" }}
+                  <span class="image fit">
+                    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+                  </span>
+                {{ end }}
+                <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+                <p>
+                  {{ .Summary }}
+                </p>
+
+                {{ if .Params.website }}
+                  <p>
+                    <a class="button" href="{{ .Params.website }}">
+                      Learn More
+                    </a>
+                  </p>
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  </article>
+{{ end }}
