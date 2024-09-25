@@ -5,11 +5,19 @@ description: Contact
 ---
 
 <form action="https://formspree.io/f/{form_id}" method="post">
-    <label for="email">Your Email</label>
-    <input name="Email" id="email" type="email">
+  <div class="row gtr-uniform">
+    <div class="col-12">
+      <label for="email">Your Email</label>
+      <input name="Email" id="email" type="email">
+    </div>
 
-    <label for="message">Message</label>
-    <textarea name="Message" id="message"></textarea>
+    <div class="col-12">
+      <label for="message">Message</label>
+      <textarea name="Message" id="message"></textarea>
+    </div>
 
-    <button type="submit">Submit</button>
+    <div class="col-12">
+      <button type="submit">Submit</button>
+    </div>
+  </div>
   </form>
