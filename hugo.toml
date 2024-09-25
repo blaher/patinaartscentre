@@ -2,3 +2,48 @@ baseURL = 'https://patina.blaher.me'
 languageCode = 'en-us'
 title = 'Patina Arts Centre'
 theme = 'patina'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Exhibitions'
+pageRef = '/exhibits'
+weight = 20
+
+[[menus.main]]
+name = 'Artist Opportunities'
+pageRef = '/opportunities'
+weight = 30
+
+[[menus.main]]
+name = 'Comedy'
+pageRef = '/comedy'
+weight = 40
+
+[[menus.main]]
+name = 'Classes & Workshops'
+pageRef = '/classes'
+weight = 50
+
+[[menus.main]]
+name = 'Resident Artists'
+pageRef = '/artists'
+weight = 60
+
+[[menus.main]]
+name = 'About PAC'
+pageRef = '/about'
+weight = 70
+
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 80
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
