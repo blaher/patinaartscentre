@@ -1,4 +1,5 @@
 +++
+isHome = true
 title = "Canton Ohio's Premier Art Gallery"
 
 banners =[

@@ -5,12 +5,14 @@
 </head>
 <body class="landing is-preload">
   <div id="page-wrapper">
-    <header id="header" class="alt">
+    <header id="header" {{if .Params.isHome }}class="alt"{{ end }}>
       {{ partial "header.html" . }}
     </header>
+
     <main>
       {{ block "main" . }}{{ end }}
     </main>
+    
     <footer id="footer">
       {{ partial "footer.html" . }}
     </footer>
