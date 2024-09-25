@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Canton Ohio&#39;s Premier Art Gallery on Patina Arts Centre</title>
-    <link>http://localhost:1313/patinaartscentre/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Canton Ohio&#39;s Premier Art Gallery on Patina Arts Centre</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/patinaartscentre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 3</title>
-      <link>http://localhost:1313/patinaartscentre/classes/post-3/</link>
+      <link>http://localhost:1313/classes/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/classes/post-3/</guid>
+      <guid>http://localhost:1313/classes/post-3/</guid>
       <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 3</title>
-      <link>http://localhost:1313/patinaartscentre/exhibits/post-3/</link>
+      <link>http://localhost:1313/exhibits/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/exhibits/post-3/</guid>
+      <guid>http://localhost:1313/exhibits/post-3/</guid>
       <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://localhost:1313/patinaartscentre/classes/post-2/</link>
+      <link>http://localhost:1313/classes/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/classes/post-2/</guid>
+      <guid>http://localhost:1313/classes/post-2/</guid>
       <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://localhost:1313/patinaartscentre/exhibits/post-2/</link>
+      <link>http://localhost:1313/exhibits/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/exhibits/post-2/</guid>
+      <guid>http://localhost:1313/exhibits/post-2/</guid>
       <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alaska Thompson</title>
-      <link>http://localhost:1313/patinaartscentre/artists/alaska-thompson/</link>
+      <link>http://localhost:1313/artists/alaska-thompson/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/alaska-thompson/</guid>
+      <guid>http://localhost:1313/artists/alaska-thompson/</guid>
       <description>&lt;p&gt;Alaska Thompson is an artist based in Canton, Ohio. Her artwork often depicts renditions of both existing, and non- existent, cosmic structures and galactic imagery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ben Young</title>
-      <link>http://localhost:1313/patinaartscentre/artists/ben-young/</link>
+      <link>http://localhost:1313/artists/ben-young/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/ben-young/</guid>
+      <guid>http://localhost:1313/artists/ben-young/</guid>
       <description>&lt;p&gt;Professional finger painter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>David Brian Martin</title>
-      <link>http://localhost:1313/patinaartscentre/artists/david-martin/</link>
+      <link>http://localhost:1313/artists/david-martin/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/david-martin/</guid>
+      <guid>http://localhost:1313/artists/david-martin/</guid>
       <description>&lt;p&gt;David Martin is an artist in Canton, Ohio working to use art as therapy. He has a Bachelors of Fine Art in Fine Art Photography, with minors in Professional Photography and Painting. He worked as a naval photographer in 2010 and since his medical discharge has worked to improve his art skills and introduce the idea of art as therapy to other artists and veterans. David has also taken lessons and learned a lot from local artists Amy Lindenberger, Cathie Fithian, Frank Dale, and Erin Mulligan. He has a gallery space to exhibit his work at Patina Arts Centre, and works at his studio in Kolp’s Attic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>David Dingwell</title>
-      <link>http://localhost:1313/patinaartscentre/artists/david-dingwell/</link>
+      <link>http://localhost:1313/artists/david-dingwell/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/david-dingwell/</guid>
+      <guid>http://localhost:1313/artists/david-dingwell/</guid>
       <description>&lt;p&gt;David Dingwell is a photographer based in Massillon. His work is focused on cityscape and architecture, as well as emotive portraiture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Tim Hirst</title>
-      <link>http://localhost:1313/patinaartscentre/artists/tim-hirst/</link>
+      <link>http://localhost:1313/artists/tim-hirst/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/tim-hirst/</guid>
+      <guid>http://localhost:1313/artists/tim-hirst/</guid>
       <description></description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://localhost:1313/patinaartscentre/classes/post-1/</link>
+      <link>http://localhost:1313/classes/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/classes/post-1/</guid>
+      <guid>http://localhost:1313/classes/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://localhost:1313/patinaartscentre/exhibits/post-1/</link>
+      <link>http://localhost:1313/exhibits/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/exhibits/post-1/</guid>
+      <guid>http://localhost:1313/exhibits/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shari Weygandt</title>
-      <link>http://localhost:1313/patinaartscentre/artists/shari-weygandt/</link>
+      <link>http://localhost:1313/artists/shari-weygandt/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/shari-weygandt/</guid>
+      <guid>http://localhost:1313/artists/shari-weygandt/</guid>
       <description></description>
     </item>
     <item>
       <title>Steve Ehret</title>
-      <link>http://localhost:1313/patinaartscentre/artists/steve-ehret/</link>
+      <link>http://localhost:1313/artists/steve-ehret/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/steve-ehret/</guid>
+      <guid>http://localhost:1313/artists/steve-ehret/</guid>
       <description>&lt;p&gt;Self-taught painter Steve Ehret is inspired by the natural world, taking in his surroundings on year-round trail runs. His goal is not realism, but rather a sense of gravity, whether working in oils, with mixed media, or on a mural.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim Eakin</title>
-      <link>http://localhost:1313/patinaartscentre/artists/tim-eakin/</link>
+      <link>http://localhost:1313/artists/tim-eakin/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/tim-eakin/</guid>
+      <guid>http://localhost:1313/artists/tim-eakin/</guid>
       <description>&lt;p&gt;Tim is a tattoo artist at The Inkeeper’s tattoo parlor in Canton, Ohio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tom Delamater</title>
-      <link>http://localhost:1313/patinaartscentre/artists/tom-delamater/</link>
+      <link>http://localhost:1313/artists/tom-delamater/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/tom-delamater/</guid>
+      <guid>http://localhost:1313/artists/tom-delamater/</guid>
       <description>&lt;p&gt;Tom Delamater is an abstract artist based in Canton, Ohio&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zach Finn</title>
-      <link>http://localhost:1313/patinaartscentre/artists/zach-finn/</link>
+      <link>http://localhost:1313/artists/zach-finn/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/artists/zach-finn/</guid>
+      <guid>http://localhost:1313/artists/zach-finn/</guid>
       <description>&lt;p&gt;Zach is a graphic designer with a maddening amount of drawings of characters lovingly referred to as IF’s, or Imaginary Folk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Patina</title>
-      <link>http://localhost:1313/patinaartscentre/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Patina Arts Centre is a non profit organization working to generate creative revitalization and community empowerment through the arts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;The Patina Arts Centre mission is to partner with creative leaders, working artists, and other organizations to facilitate inspired projects both in-house and throughout the community.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-team&#34;&gt;Our Team&lt;/h2&gt;&#xA;&lt;p&gt;Meet the Founder and the Board of Directors.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-you-can-help&#34;&gt;How You Can Help&lt;/h2&gt;&#xA;&lt;p&gt;Find more information about how you can help our mission.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artist Opportunities</title>
-      <link>http://localhost:1313/patinaartscentre/opportunities/</link>
+      <link>http://localhost:1313/opportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/opportunities/</guid>
+      <guid>http://localhost:1313/opportunities/</guid>
       <description>&lt;h2 id=&#34;call-for-artists&#34;&gt;Call for Artists&lt;/h2&gt;&#xA;&lt;p&gt;Showcase your talent in our Group Exhibition Opportunities and become part of a vibrant creative community.&#xA;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solo-art-exhibitions&#34;&gt;Solo Art Exhibitions&lt;/h2&gt;&#xA;&lt;p&gt;Step into the spotlight! Explore our Individual Artist opportunities and share your unique artistic voice with the world.&#xA;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;teaching-artists&#34;&gt;Teaching Artists&lt;/h2&gt;&#xA;&lt;p&gt;Passionate about sharing your craft? View our Opportunities for Artists dedicated to Education.&#xA;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;resident-artist-studios&#34;&gt;Resident Artist Studios&lt;/h2&gt;&#xA;&lt;p&gt;Ready to elevate your artistry? Join our dynamic program for access to top-notch studios, exhibition opportunities, and more.&#xA;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Patina</title>
-      <link>http://localhost:1313/patinaartscentre/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/contact/</guid>
-      <description>Contact Form Goes here.</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;form action=&#34;https://formspree.io/f/{form_id}&#34; method=&#34;post&#34;&gt;&#xA;    &lt;label for=&#34;email&#34;&gt;Your Email&lt;/label&gt;&#xA;    &lt;input name=&#34;Email&#34; id=&#34;email&#34; type=&#34;email&#34;&gt;&#xA;&#xA;    &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea name=&#34;Message&#34; id=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;button type=&#34;submit&#34;&gt;Submit&lt;/button&gt;&#xA;  &lt;/form&gt;</description>
     </item>
     <item>
       <title>Exhibit Artwork</title>
-      <link>http://localhost:1313/patinaartscentre/shop/</link>
+      <link>http://localhost:1313/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/shop/</guid>
-      <description>&lt;p&gt;Browse some stuff.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/shop/</guid>
+      <description>&lt;p&gt;Browse some art to buy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Upcoming Special Events</title>
-      <link>http://localhost:1313/patinaartscentre/comedy/</link>
+      <link>http://localhost:1313/comedy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patinaartscentre/comedy/</guid>
+      <guid>http://localhost:1313/comedy/</guid>
       <description>&lt;p&gt;View our upcoming special events at PAC.&lt;/p&gt;&#xA;&lt;h2 id=&#34;out-of-bounds&#34;&gt;Out of Bounds&lt;/h2&gt;&#xA;&lt;p&gt;Saturday, August 6, 2024 at 7:30pm&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

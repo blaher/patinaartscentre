@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/patinaartscentre/tags/blue/</loc>
+    <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/tags/green/</loc>
+    <loc>http://localhost:1313/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/classes/post-3/</loc>
+    <loc>http://localhost:1313/classes/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/exhibits/post-3/</loc>
+    <loc>http://localhost:1313/exhibits/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/tags/red/</loc>
+    <loc>http://localhost:1313/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/classes/post-2/</loc>
+    <loc>http://localhost:1313/classes/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/exhibits/post-2/</loc>
+    <loc>http://localhost:1313/exhibits/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/alaska-thompson/</loc>
+    <loc>http://localhost:1313/artists/alaska-thompson/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/ben-young/</loc>
+    <loc>http://localhost:1313/artists/ben-young/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/david-martin/</loc>
+    <loc>http://localhost:1313/artists/david-martin/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/david-dingwell/</loc>
+    <loc>http://localhost:1313/artists/david-dingwell/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/tim-hirst/</loc>
+    <loc>http://localhost:1313/artists/tim-hirst/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/classes/post-1/</loc>
+    <loc>http://localhost:1313/classes/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/exhibits/post-1/</loc>
+    <loc>http://localhost:1313/exhibits/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/shari-weygandt/</loc>
+    <loc>http://localhost:1313/artists/shari-weygandt/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/steve-ehret/</loc>
+    <loc>http://localhost:1313/artists/steve-ehret/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/tim-eakin/</loc>
+    <loc>http://localhost:1313/artists/tim-eakin/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/tom-delamater/</loc>
+    <loc>http://localhost:1313/artists/tom-delamater/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/zach-finn/</loc>
+    <loc>http://localhost:1313/artists/zach-finn/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/classes/</loc>
+    <loc>http://localhost:1313/classes/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/exhibits/</loc>
+    <loc>http://localhost:1313/exhibits/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/artists/</loc>
+    <loc>http://localhost:1313/artists/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/comedy/</loc>
+    <loc>http://localhost:1313/opportunities/</loc>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/contact/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/opportunities/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/categories/</loc>
+    <loc>http://localhost:1313/shop/</loc>
   </url><url>
-    <loc>http://localhost:1313/patinaartscentre/shop/</loc>
+    <loc>http://localhost:1313/comedy/</loc>
   </url>
 </urlset>
