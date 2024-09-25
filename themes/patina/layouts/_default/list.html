@@ -15,8 +15,8 @@
               <p>
                 {{ $image := .Resources.GetMatch "image.jpg" }}
                 {{ with $image }}
-                  {{ $image := $image.Fit "300x200" }}
-                  <span class="image left">
+                  {{ $image := $image.Fit "300x300" }}
+                  <span class="image right">
                     <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
                   </span>
                 {{ end }}
@@ -27,7 +27,7 @@
               {{ if .Params.website }}
                 <p>
                   <a class="button" href="{{ .Params.website }}">
-                    Visit Website
+                    Learn More
                   </a>
                 </p>
               {{ end }}

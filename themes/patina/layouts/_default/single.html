@@ -7,7 +7,25 @@
 
     <section class="wrapper style5">
       <div class="inner">
+        {{ $image := .Resources.GetMatch "image.jpg" }}
+        {{ with $image }}
+          {{ $image := $image.Fit "400x400" }}
+          <span class="image right">
+            <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+          </span>
+        {{ end }}
+
         {{ .Content }}
+
+        {{ if .Params.website }}
+          <p>
+            <a class="button" href="{{ .Params.website }}">
+              Learn More
+            </a>
+          </p>
+        {{ end }}
+
+        <br class="clear">
       </div>
     </section>
   </article>
