@@ -1,45 +1,45 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'My New Hugo Site'
+baseURL = 'https://blaher.me/patinaartscentre/'
+languageCode = 'en-us'
+title = 'Patina Arts Centre'
 
 [[menus.main]]
 name = 'Home'
-pageRef = '/'
+pageRef = 'https://blaher.me/patinaartscentre/'
 weight = 10
 
 [[menus.main]]
 name = 'Exhibitions'
-pageRef = '/exhibits'
+pageRef = 'https://blaher.me/patinaartscentre/exhibits'
 weight = 20
 
 [[menus.main]]
 name = 'Artist Opportunities'
-pageRef = '/opportunities'
+pageRef = 'https://blaher.me/patinaartscentre/opportunities'
 weight = 30
 
 [[menus.main]]
 name = 'Comedy'
-pageRef = '/comedy'
+pageRef = 'https://blaher.me/patinaartscentre/comedy'
 weight = 40
 
 [[menus.main]]
 name = 'Classes & Workshops'
-pageRef = '/classes'
+pageRef = 'https://blaher.me/patinaartscentre/classes'
 weight = 50
 
 [[menus.main]]
 name = 'Resident Artists'
-pageRef = '/artists'
+pageRef = 'https://blaher.me/patinaartscentre/artists'
 weight = 60
 
 [[menus.main]]
 name = 'About PAC'
-pageRef = '/about'
+pageRef = 'https://blaher.me/patinaartscentre/about'
 weight = 70
 
 [[menus.main]]
 name = 'Contact'
-pageRef = '/contact'
+pageRef = 'https://blaher.me/patinaartscentre/contact'
 weight = 80
 
 [module]

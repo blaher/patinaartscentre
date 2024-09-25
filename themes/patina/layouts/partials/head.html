@@ -1,9 +1,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-<link rel="stylesheet" href="/css/main.css" />
-<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
-
-<base href="https://blaher.me/patinaartscentre/" target="_blank">
+<link rel="stylesheet" href="https://blaher.me/patinaartscentre/css/main.css" />
+<noscript><link rel="stylesheet" href="https://blaher.me/patinaartscentre/css/noscript.css" /></noscript>
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
