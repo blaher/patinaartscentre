@@ -5,4 +5,4 @@ heading: Exhibit Artwork
 description: Buy paintings
 ---
 
-Browse some stuff.
+Browse some art to buy.
