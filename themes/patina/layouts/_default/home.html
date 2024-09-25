@@ -56,11 +56,26 @@
   <!-- Two -->
   <section id="two" class="wrapper alt style2">
     <section class="spotlight">
-      <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-        <h2>{{ .Params.exhibittitle }}</h2>
-        <p>A Spirit of Community</p>
-        <a href="/exhibits" class="button primary">View Event</a>
-      </div>
+      {{ $p := slice }}
+      {{ range (slice "exhibits") }}
+        {{ $p = $p | append (index (where site.RegularPages "Section" . | first 1) 0) }}
+      {{ end }}
+    
+      {{ range $p.ByDate }}
+        <div class="image">
+          {{ $image := .Resources.GetMatch "image.jpg" }}
+          {{ if $image}}
+            <img src="{{ $image.RelPermalink }}" alt="{{ .LinkTitle }}">
+          {{ else }}
+            <img src="images/pic01.jpg" alt="" />
+          {{ end }}
+        </div>
+        <div class="content">
+          <h2>{{ $.Params.exhibittitle }}</h2>
+          <p>{{ .Title }}</p>
+          <a href="{{ .RelPermalink }}" class="button primary">View Event</a>
+        </div>
+      {{ end }}
     </section>
     <section class="spotlight">
       <div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">

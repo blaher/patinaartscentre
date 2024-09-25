@@ -19,7 +19,7 @@ pageRef = '/opportunities'
 weight = 30
 
 [[menus.main]]
-name = 'Comedy'
+name = 'Comedy Shows'
 pageRef = '/comedy'
 weight = 40
 
