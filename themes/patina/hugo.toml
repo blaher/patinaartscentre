@@ -1,45 +1,45 @@
 baseURL = 'https://blaher.me/patinaartscentre/'
-languageCode = 'en-us'
-title = 'Patina Arts Centre'
+languageCode = 'en-US'
+title = 'My New Hugo Site'
 
 [[menus.main]]
 name = 'Home'
-pageRef = 'https://blaher.me/patinaartscentre/'
+pageRef = '/'
 weight = 10
 
 [[menus.main]]
 name = 'Exhibitions'
-pageRef = 'https://blaher.me/patinaartscentre/exhibits'
+pageRef = '/exhibits'
 weight = 20
 
 [[menus.main]]
 name = 'Artist Opportunities'
-pageRef = 'https://blaher.me/patinaartscentre/opportunities'
+pageRef = '/opportunities'
 weight = 30
 
 [[menus.main]]
 name = 'Comedy'
-pageRef = 'https://blaher.me/patinaartscentre/comedy'
+pageRef = '/comedy'
 weight = 40
 
 [[menus.main]]
 name = 'Classes & Workshops'
-pageRef = 'https://blaher.me/patinaartscentre/classes'
+pageRef = '/classes'
 weight = 50
 
 [[menus.main]]
 name = 'Resident Artists'
-pageRef = 'https://blaher.me/patinaartscentre/artists'
+pageRef = '/artists'
 weight = 60
 
 [[menus.main]]
 name = 'About PAC'
-pageRef = 'https://blaher.me/patinaartscentre/about'
+pageRef = '/about'
 weight = 70
 
 [[menus.main]]
 name = 'Contact'
-pageRef = 'https://blaher.me/patinaartscentre/contact'
+pageRef = '/contact'
 weight = 80
 
 [module]
