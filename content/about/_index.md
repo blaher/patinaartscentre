@@ -17,7 +17,7 @@ The Patina Arts Centre mission is to partner with creative leaders, working arti
 
 Meet the Founder and the Board of Directors.
 
-[Learn More](#)
+[Learn More](/about/board)
 
 
 ## How You Can Help ##
