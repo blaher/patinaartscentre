@@ -4,10 +4,10 @@ heading: Upcoming Special Events
 description: Comedy Shows
 ---
 
-View our upcoming special events at PAC.
+Your concierge for comedy in the Canton area!
 
-## Out of Bounds ##
+Canton Comedy Boom produces, writes, and performs stand-up, sketch, and improv comedy, booking hilarious comics from all over the country!
 
-Saturday, August 6, 2024 at 7:30pm
+They host their shows in the basement theatre at Patina Arts Centre. Stop by and enjoy one of their shows!
 
-[Learn More](#)
+[Learn More](https://www.facebook.com/cantoncomedyboom)
