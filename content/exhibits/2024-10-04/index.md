@@ -5,7 +5,7 @@ draft = false
 website = 'https://www.facebook.com/events/1767985950677401'
 +++
 
-October 4, 2024 - November, 2024
+October 4, 2024 - October 31, 2024
 
 SpoOky by Rachel Jernigan features bold, vibrant depictions of classic Halloween iconography. With a nostalgic yet fresh aesthetic, her playful and eerie pieces evoke the spirit of the season in a uniquely captivating way.
 

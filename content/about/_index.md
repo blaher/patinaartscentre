@@ -11,13 +11,6 @@ Patina Arts Centre is a non profit organization working to generate creative rev
 The Patina Arts Centre mission is to partner with creative leaders, working artists, and other organizations to facilitate inspired projects both in-house and throughout the community.
 
 
-## Our Team ##
-
-Meet the Founder and the Board of Directors.
-
-[Learn More](/about/board)
-
-
 ## How You Can Help ##
 
 We are a 501(c)(3) nonprofit organization dedicated to enriching the community through the arts. Your support is tax-deductible and directly helps us achieve our mission. Explore donation options below.

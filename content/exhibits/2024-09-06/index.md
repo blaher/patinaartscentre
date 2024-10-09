@@ -5,7 +5,7 @@ draft = false
 website = 'https://www.facebook.com/events/s/patina-arts-centres-first-fund/869821251632238/'
 +++
 
-September 6, 2024 - September 2024
+September 6, 2024 - September 28, 2024
 
 We are delighted to present "Wings and Whimsy," an art exhibition celebrating the annual butterfly release at Beech Creek Botanical Garden & Nature Preserve.
 
