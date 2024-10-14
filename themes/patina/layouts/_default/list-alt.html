@@ -13,12 +13,15 @@
         <div class="box alt">
           <div class="row gtr-50 gtr-uniform">
             {{ range .Pages }}
+              {{ $link := .RelPermalink }}
               <div class="col-3-xlarge col-4-large col-6-medium col-12-small">
                 {{ $image := .Resources.GetMatch "image.jpg" }}
                 {{ with $image }}
                   {{ $image := $image.Fit "300x300" }}
                   <span class="image fit">
-                    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+                    <a href="{{ $link }}">
+                      <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+                    </a>
                   </span>
                 {{ end }}
                 <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
