@@ -71,7 +71,7 @@
       {{ range $p.ByDate }}
         <div class="image">
           {{ $image := .Resources.GetMatch "image.jpg" }}
-          {{ $image := $image.Fill "1216x812" }}
+          {{ $image := $image.Fill "640x400" }}
           {{ if $image}}
             <img src="{{ $image.RelPermalink }}" alt="{{ .LinkTitle }}">
           {{ else }}
