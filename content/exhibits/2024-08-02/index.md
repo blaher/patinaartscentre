@@ -1,6 +1,8 @@
 +++
 title = 'Patina Arts Centre’s First Fundraiser'
-date = 2024-08-02
+date = 2024-07-01
+startDate = 2024-08-02
+endDate = 2024-08-29
 draft = false
 website = 'https://www.facebook.com/events/s/patina-arts-centres-first-fund/869821251632238/'
 +++

@@ -1,6 +1,8 @@
 +++
 title = 'A Spirit of Community'
-date = 2024-07-05
+date = 2024-06-01
+startDate = 2024-07-05
+endDate = 2024-07-27
 draft = false
 website = 'https://www.facebook.com/events/986570699606280/'
 +++

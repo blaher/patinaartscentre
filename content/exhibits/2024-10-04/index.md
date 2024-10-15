@@ -1,6 +1,8 @@
 +++
 title = 'SpoOky by Rachel Jernigan'
-date = 2024-10-04
+date = 2024-09-01
+startDate = 2024-10-04
+endDate = 2024-10-31
 draft = false
 website = 'https://www.facebook.com/events/1767985950677401'
 +++

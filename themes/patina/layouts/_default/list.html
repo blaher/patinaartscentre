@@ -11,8 +11,16 @@
         {{ .Content }}
 
         {{ range .Pages }}
+          {{ if lt now .Params.startDate }}
+           <h2>Upcoming Exhibit</h2>
+          {{ end }}
+
+          {{ if and (gt now .Params.startDate) (lt now .Params.endDate) }}
+           <h2>Current Exhibit</h2>
+          {{ end }}
+
           <div class="box clear">
-              <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+              <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
               <p>
                 {{ $image := .Resources.GetMatch "image.jpg" }}
                 {{ with $image }}
@@ -33,6 +41,10 @@
                 </p>
               {{ end }}
           </div>
+
+          {{ if and (gt now .Params.startDate) (lt now .Params.endDate) }}
+           <h2>Previous Exhibits</h2>
+          {{ end }}
         {{ end }}
 
         <br class="clear">

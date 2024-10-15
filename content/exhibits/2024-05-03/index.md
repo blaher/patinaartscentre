@@ -1,6 +1,8 @@
 +++
 title = 'Umbra: A Collective Perspective'
-date = 2024-05-03
+date = 2024-04-01
+startDate = 2024-05-05
+endDate = 2024-05-27
 draft = false
 website = 'https://www.facebook.com/events/785998596687292/'
 +++

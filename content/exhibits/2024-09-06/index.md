@@ -1,6 +1,8 @@
 +++
 title = 'Wings & Whimsy - The Art of Taking Flight'
-date = 2024-09-06
+date = 2024-08-01
+startDate = 2024-09-06
+endDate = 2024-09-28
 draft = false
 website = 'https://www.facebook.com/events/s/patina-arts-centres-first-fund/869821251632238/'
 +++

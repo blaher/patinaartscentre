@@ -1,6 +1,8 @@
 +++
 title = 'ROYGBIV Pride Palette Exhibition: Celebrating Diversity Through Color'
-date = 2024-06-07
+date = 2024-05-01
+startDate = 2024-06-07
+endDate = 2024-06-27
 draft = false
 website = 'https://www.facebook.com/events/986570699606280/'
 +++

@@ -1,6 +1,8 @@
 +++
 title = 'Modern Renaissance: Arts Academy at Summit Student Showcase'
-date = 2024-04-05
+date = 2024-03-01
+startDate = 2024-04-05
+endDate = 2024-04-27
 draft = false
 website = 'https://www.facebook.com/events/3852419554987940/'
 +++

@@ -62,8 +62,10 @@
   <section id="two" class="wrapper alt style2">
     <section class="spotlight">
       {{ $p := slice }}
-      {{ range (slice "exhibits") }}
-        {{ $p = $p | append (index (where site.RegularPages "Section" . | first 1) 0) }}
+      {{ range (where site.RegularPages "Section" "exhibits") }}
+        {{ if and (gt now .Params.startDate) (lt now .Params.endDate) }}
+        {{ $p = $p | append . }}
+        {{ end }}
       {{ end }}
     
       {{ range $p.ByDate }}
