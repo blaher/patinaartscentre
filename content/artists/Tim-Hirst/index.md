@@ -5,4 +5,4 @@ draft = false
 website = 'https://1-tim-hirst.pixels.com'
 +++
 
-Photographer.
+Photographer, Doctor, and amazing.
