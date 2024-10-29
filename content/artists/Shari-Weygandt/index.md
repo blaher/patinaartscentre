@@ -5,4 +5,4 @@ draft = false
 website = 'https://www.instagram.com/23hourpartypeople_'
 +++
 
-Shari with her cheery demeanor just likes to draw and let her artistic talents let loose.
+"Picture I'm a dreamer, I'll take you deeper. Explore a creative world of mixed medias. Shari specializes with acrylic, watercolor, pencil and ink. Art is to mimic what comforts another."
